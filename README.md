@@ -1,0 +1,5 @@
+- 🎇 Hello! My name is Aitor, although everyone knows me as Bacon.
+- 📈 I’m a junior developer interested in web & mobile applications.
+- 🌱 I’m currently working as a FullStack developer in a Basque Company called Syslan 
+- 🎭 I’m looking to collaborate on any projects with a high learning curve. I'm always looking forward to learn new stuff.
+- 📫 How to reach me, email me to aitorperezv12@gmail.com.
