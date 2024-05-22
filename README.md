@@ -37,5 +37,5 @@
 ### 🌱 I'm currently learning...
 
 - Advanced React
-- Astro
-- Ionic
+- Machine learning
+- RAGs & LLM development and implementation
