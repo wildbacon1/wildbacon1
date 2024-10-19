@@ -17,6 +17,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
 <h4>I also work with...</h4>
 <p>
@@ -36,6 +37,6 @@
 
 ### 🌱 I'm currently learning...
 
-- Advanced React
+- Data science
 - Machine learning
 - RAGs & LLM development and implementation
